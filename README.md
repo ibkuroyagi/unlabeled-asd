@@ -2,6 +2,9 @@
 
 ## Environmental setting
 
+cuda 11.8
+python 3.10 (conda)
+
 ```bash
 cd tools
 make
